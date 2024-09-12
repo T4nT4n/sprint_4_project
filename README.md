@@ -1,1 +1,1 @@
-This is the read me file.
+This is a web application that displays basic results of EDA of the Vehicles Dataframe.
